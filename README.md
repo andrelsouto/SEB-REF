@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Safe Exam Browser, Version 3.x
 
 Refactored version of Safe Exam Browser for Windows with Chromium as integrated browser engine.
@@ -24,3 +25,6 @@ SEB 3.x requires the prerequisites listed below in order to work correctly. Thes
 | Downloads       | ![GitHub All Releases](https://img.shields.io/github/downloads/safeexambrowser/seb-win-refactoring/total?logo=github) | https://github.com/SafeExamBrowser/seb-win-refactoring/releases |
 | Development     | ![GitHub Last Commit](https://img.shields.io/github/last-commit/safeexambrowser/seb-win-refactoring?logo=github)      | n/a                                                             |
 | Repository Size | ![GitHub Repo Size](https://img.shields.io/github/repo-size/safeexambrowser/seb-win-refactoring?logo=github)          | n/a                                                             |
+=======
+# SEB-REF
+>>>>>>> 3ddd7639430c5263a620ce6780b3c01fd991680d
